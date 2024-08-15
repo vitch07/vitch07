@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vishnu Balaji Rajendran (@vitch07), Computer Science Engineer, Anna University.
+- 👀 I’m interested in Software developing, App creation.
+- 🌱 I’m currently learning Advanced Python and Flutter & Dart. 
+- 📫 Reach me at [LinkedIn](linkedin.com/in/vishnubalaji-rajendran-970913274/)
